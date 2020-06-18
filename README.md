@@ -4,11 +4,8 @@
 
 ### app started: 
 
-
-![cover](gh/JCommercePic1)
-
+![JCommercePic1](https://user-images.githubusercontent.com/45298383/85032201-d6260400-b17f-11ea-8688-7af1fcee89e9.png)
 
 #### afterd input data:
 
-
-![coverr](gh/JCommercePic2)
+![JCommercePic2](https://user-images.githubusercontent.com/45298383/85032536-3e74e580-b180-11ea-95b4-5ee46bcba94b.png)
